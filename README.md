@@ -1,10 +1,5 @@
 # CORONA-Net
-Source code for the paper: CORONA-Net: COnvolutional Re-initialization Optimization Network for Detecting  COVID-19 from CT and X-ray images
-
-## download the pr-trained weights
-You can download the pre-trained weights from  [here](https://github.com/Abdelpakey/CORONA-Net)
-
-After you downlad the pretrained weights, put the .pth file in te model folder.
+Source code for the paper: CORONA-Net: Diagnosing COVID-19 from X-ray Images Using Re-Initialization and Classification Networks published in The Journal of Imaging https://www.mdpi.com/2313-433X/7/5/81/htm
 
 ## Dataset
 
